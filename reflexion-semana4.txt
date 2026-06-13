@@ -1,0 +1,6 @@
+Es importante que las comunidades e iniciativas ciudadanas construyan sus propias herramientas tecnológicas con tecnologías abiertas como Node.js porque esto les otorga independencia tecnológica frente a grandes empresas.
+Permite adaptar las soluciones a necesidades locales reales, sin depender de plataformas cerradas.
+Fomenta la transparencia, la colaboración y el aprendizaje colectivo.
+Reduce costos y evita el control de datos por corporaciones.
+Node.js, al ser open source, facilita el desarrollo rápido y escalable de servidores y aplicaciones web.
+Así se fortalece la soberanía digital y la innovación desde abajo
